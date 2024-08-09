@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\dayinmoth\bin\Debug\net7.0\dayinmoth.exe
+C:\Users\ASUS\Desktop\dayinmoth\bin\Debug\net7.0\dayinmoth.deps.json
+C:\Users\ASUS\Desktop\dayinmoth\bin\Debug\net7.0\dayinmoth.runtimeconfig.json
+C:\Users\ASUS\Desktop\dayinmoth\bin\Debug\net7.0\dayinmoth.dll
+C:\Users\ASUS\Desktop\dayinmoth\bin\Debug\net7.0\dayinmoth.pdb
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.dll
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\refint\dayinmoth.dll
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.pdb
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\dayinmoth.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\dayinmoth\obj\Debug\net7.0\ref\dayinmoth.dll
